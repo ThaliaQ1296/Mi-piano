@@ -1,2 +1,2 @@
 # Mi-piano
-Piano web interactivo creado por Thaliia Quinde
+Piano web interactivo creado por Thalia Quinde
